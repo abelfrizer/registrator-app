@@ -1,0 +1,6 @@
+[submodule "registrator-service"]
+	path = registrator-service
+	url = https://github.com/abelfrizer/registrator-service.git
+[submodule "registrator-ui"]
+	path = registrator-ui
+	url = https://github.com/abelfrizer/registrator-ui.git
